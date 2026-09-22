@@ -86,7 +86,7 @@ Wait until the logs show `Imported #…` at the chain head.
 2. Join the Orbinum Discord and verify. The link is on the [Channels](https://docs.orbinum.network/community/channels) page.
 3. Get ORB from the [faucet](https://faucet.orbinum.network/) (5 ORB / 24 h). `setKeys` is a signed transaction and needs a balance for the fee.
 
-Use this same wallet for the quests. Talisman gets a **+5 credit bonus** on every testnet quest.
+Use this same wallet for the quests: sign in at the [Orbinum App](https://app.orbinum.network/community?ref=ORB-KGTWCB) *(referral)*. Talisman gets a **+5 credit bonus** on every testnet quest.
 
 ## 4. Generate session keys
 
@@ -160,7 +160,7 @@ There's no SLA and no guaranteed acceptance. If you're added, the node starts au
 
 ## Earn ORB Credits
 
-The airdrop comes from here, not from the node. See [ORB Credits](https://docs.orbinum.network/community/orb-credits).
+The airdrop comes from here, not from the node. Start at the [Orbinum App](https://app.orbinum.network/community?ref=ORB-KGTWCB) *(referral)*: connect your wallet, then link Discord, Telegram and X for the +30 signup bonus. See [ORB Credits](https://docs.orbinum.network/community/orb-credits).
 
 | Source | Credits |
 |---|---|
@@ -205,6 +205,7 @@ sudo bash ~/orbinum-validator-guide/scripts/check.sh <address>
 
 ## Links
 
+- Orbinum App (quests): https://app.orbinum.network/community?ref=ORB-KGTWCB *(referral)*
 - Docs: https://docs.orbinum.network
 - Faucet: https://faucet.orbinum.network
 - Telemetry: https://telemetry.orbinum.network
